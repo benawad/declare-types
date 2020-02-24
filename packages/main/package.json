@@ -1,0 +1,17 @@
+{
+  "name": "@map/main",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/mapkit": "1.0.0",
+    "@types/node": "^13.7.4",
+    "typescript": "^3.8.2"
+  }
+}
